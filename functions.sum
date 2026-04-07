@@ -8,6 +8,7 @@ int fun(int,int);
 	scanf("%d %d",&a,&b);
 	result=fun(a,b);
 	printf("sum=%d\n",result);
+	printf("25331A05E1");
 	return 0;
 	}
 
