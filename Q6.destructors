@@ -1,0 +1,25 @@
+#include<iostream>
+using namespace std;
+class cse
+{
+    public:
+    cse()
+    {
+        cout<<"consrtuctor called,object created"<<endl;
+    }
+    void display()
+    {
+        cout<<"welcome to c++ destructor"<<endl;
+    }
+    ~cse()
+    {
+        cout<<"destructor called"<<endl;
+    }
+};
+int main()
+{
+    cse c;
+    c.display();
+cout<<"25331A05E1"<<endl;
+    return 0;
+}
