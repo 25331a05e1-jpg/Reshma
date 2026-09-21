@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int rollno=7;
+    float marks=77;
+    char grade='A';
+    string name="reshma";
+    cout<<"rollno:"<<rollno<<endl<<"marks:"<<marks<<endl;
+    cout<<"grade:"<<grade<<endl<<"name:"<<name<<endl;
+    cout<<"25331A05E1"<<endl;
+    return 0;
+}
