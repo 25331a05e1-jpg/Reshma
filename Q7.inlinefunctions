@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+inline int square(int x){
+    return x*x;
+}
+int main(){
+    int n;
+    cout<<"enter a number"<<endl;
+    cin>>n;
+    cout<<square(n);
+    cout<<"\n";
+	cout<<<<"25331A05E1"<<endl;
+
+    return 0;
+}
