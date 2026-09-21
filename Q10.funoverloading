@@ -1,0 +1,22 @@
+#include<iostream>
+using namespace std;
+class Demo{
+    public:
+        void add(int a,int b){
+            cout<<"sum of two integers="<<a+b<<endl;
+        }
+        void addf(float a,float b){
+            cout<<"sum of two floats="<<a+b<<endl;
+        }
+        void add(int a,int b,int c){
+            cout<<"sum of three integers="<<a+b+c<<endl;
+        }
+};
+int main(){
+    Demo obj;
+    obj.add(57,77);
+    obj.addf(2.1,4.5);
+    obj.add(55,78,90);
+	cout<<"25331A05E1"<<endl;
+    return 0;
+}
