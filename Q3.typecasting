@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int a=7;
+    float b=77.77;
+    int c=b;
+    float d=a;
+    cout<<"a="<<a<<","<<"b="<<b<<endl;
+    cout<<"a="<<d<<","<<"b="<<c<<endl;
+    cout<<"25331A05E1"<<endl;
+    return 0;
+}
